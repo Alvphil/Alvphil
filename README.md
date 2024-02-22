@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on some tools that can be helpfull at work.
+- 🌱 I’m currently learning more of GO and brushing up on python.
+
 <!--
 **Alvphil/Alvphil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
